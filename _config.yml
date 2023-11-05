@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Data Contribution Estimation for Machine Learning
+description: Project page for the NeurIPS 2023 Data Contribution Estimation for Machine Learning Tutorial.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://www.stephanieschoch.com/neurips2023-dce-tutorial
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Tutorial Link: https://nips.cc/virtual/2023/tutorial/73959
