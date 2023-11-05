@@ -3,33 +3,27 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# NeurIPS 2023 Data Contribution Estimation for Machine Learning Tutorial
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+[[**Tutorial Link**](https://nips.cc/virtual/2023/tutorial/73959)]
+## Abstract: 
+Tasks enabled by data contribution estimation (DCE) aid model improvement through data improvement. While benchmark DCE evaluation tasks show application across many ML domains, DCE has limited visibility in other research domains that stand to benefit from its use cases. We propose a tutorial on data contribution for machine learning to address this. This tutorial will provide an overview of DCE for machine learning and natural language processing. Following this tutorial, attendees will have gained an understanding of 1) broadly, what questions data contribution estimation aims to answer; 2) the theory and methods that are widely in use within the DCE community that can be applied to broad range of domains; 3) DCE from the perspectives of large language models and privacy.
 
-More specifically, the created site:
+## Organizers:
+**Stephanie Schoch** is a PhD candidate at the University of Virginia, where she is a member of the Information and Language Processing lab. Her research interests broadly span assessment and applications of data quality and contribution estimations in natural language processing and machine learning. Her recent work focuses on improving Shapley approximation performance through improved value function selection and improving Shapley approximation efficiency through novel sampling strategies. 
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**Ruoxi Jia** is an assistant professor in the the Bradley Department of Electrical and Computer Engineering at Virginia Tech. Jia’s research interest lies broadly in the span of machine learning, security, privacy, and cyber-physical systems. Jia’s recent work focuses on data-centric and trustworthy machine learning. Jia has been investigating data valuation for machine learning since 2019 and her work covers fundamental theoretical, algorithmic, and empirical aspects of data valuation. Her work on data valuation has been adopted in various use cases such as improving dataset quality, incentive design, debugging an ML pipeline.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+**Yangfeng Ji** is the William Wulf Assistant Professor in the Department of Computer Science at the University of Virginia, where he leads the Information and Language Processing lab. His research interests include building machine learning models for text understanding and generation. His work on entity-driven story generation won an Outstanding Paper Award at NAACL 2018. He is a co-author of an EMNLP 2020 tutorial on text generation and NAACL 2022 tutorial on contrastive learning.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+<!--
+## Panelists:
 
-To get started with creating a site, simply:
+**Dawn Song** is a Professor in the Department of Electrical Engineering and Computer Science at UC Berkeley. Her research interest lies in AI and deep learning, blockchain/web3, security and privacy. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and several Test-of-Time and Best Paper Awards from top conferences in Computer Security and Deep Learning. She is an ACM Fellow and an IEEE Fellow. She is ranked the most cited scholar in computer security (AMiner Award).
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+**James Zou** is an Assistant Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University. He works on making machine learning more reliable, human-compatible and statistically rigorous, and is especially interested in applications in human disease and health. Several of his algorithms are widely used in tech and biotech industries. He joined Stanford in 2016 and is excited to be a two-time Chan-Zuckerberg Investigator and the faculty director of the university-wide Stanford Data4Health hub. He’s also a member of the Stanford AI Lab.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+**Swabha Swayamdipta** is an Assistant Professor of Computer Science in the USC Viterbi School of Engineering, where she leads the DILL Lab. Her research interests broadly span Natural Language Processing and Machine Learning, where she studies the estimation of dataset quality, the (semi-)automatic collection of impactful data, as well as evaluating how human biases affect dataset construction and model decisions. Previously, she was a postdoctoral investigator at the Allen Institute for AI, where she worked with Yejin Choi.
 
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+**Yongchan Kwon** is an Assistant Professor in the Department of Statistics at Columbia University. His research focuses on developing more interpretable and rigorous machine learning methods, directly motivated by scientific questions. He received a Ph.D. at Seoul National University and did his postdoc at Stanford University.
+-->
