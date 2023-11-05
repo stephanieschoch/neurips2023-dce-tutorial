@@ -1,8 +1,10 @@
-title: Data Contribution Estimation for Machine Learning
+title: Data Contribution Estimation for ML
 description: Project page for the NeurIPS 2023 Data Contribution Estimation for Machine Learning Tutorial.
 theme: just-the-docs
+
+color_scheme: wider
 
 url: https://www.stephanieschoch.com/neurips2023-dce-tutorial
 
 aux_links:
-  Tutorial Link: https://nips.cc/virtual/2023/tutorial/73959
+  Tutorial: https://nips.cc/virtual/2023/tutorial/73959

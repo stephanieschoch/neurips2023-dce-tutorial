@@ -3,9 +3,9 @@ title: Home
 layout: home
 ---
 
-# NeurIPS 2023 Data Contribution Estimation for Machine Learning Tutorial
+# Data Contribution Estimation for Machine Learning 
+[**NeurIPS 2023 Tutorial**](https://nips.cc/virtual/2023/tutorial/73959)
 
-[[**Tutorial Link**](https://nips.cc/virtual/2023/tutorial/73959)]
 ## Abstract: 
 Tasks enabled by data contribution estimation (DCE) aid model improvement through data improvement. While benchmark DCE evaluation tasks show application across many ML domains, DCE has limited visibility in other research domains that stand to benefit from its use cases. We propose a tutorial on data contribution for machine learning to address this. This tutorial will provide an overview of DCE for machine learning and natural language processing. Following this tutorial, attendees will have gained an understanding of 1) broadly, what questions data contribution estimation aims to answer; 2) the theory and methods that are widely in use within the DCE community that can be applied to broad range of domains; 3) DCE from the perspectives of large language models and privacy.
 
