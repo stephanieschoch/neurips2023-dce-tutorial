@@ -19,12 +19,3 @@ Tasks enabled by data contribution estimation (DCE) aid model improvement throug
 
 ## Panelists:
 Coming Soon
-<!--
-**Dawn Song** is a Professor in the Department of Electrical Engineering and Computer Science at UC Berkeley. Her research interest lies in AI and deep learning, blockchain/web3, security and privacy. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and several Test-of-Time and Best Paper Awards from top conferences in Computer Security and Deep Learning. She is an ACM Fellow and an IEEE Fellow. She is ranked the most cited scholar in computer security (AMiner Award).
-
-**James Zou** is an Assistant Professor of Biomedical Data Science and, by courtesy, of Computer Science and Electrical Engineering at Stanford University. He works on making machine learning more reliable, human-compatible and statistically rigorous, and is especially interested in applications in human disease and health. Several of his algorithms are widely used in tech and biotech industries. He joined Stanford in 2016 and is excited to be a two-time Chan-Zuckerberg Investigator and the faculty director of the university-wide Stanford Data4Health hub. He’s also a member of the Stanford AI Lab.
-
-**Swabha Swayamdipta** is an Assistant Professor of Computer Science in the USC Viterbi School of Engineering, where she leads the DILL Lab. Her research interests broadly span Natural Language Processing and Machine Learning, where she studies the estimation of dataset quality, the (semi-)automatic collection of impactful data, as well as evaluating how human biases affect dataset construction and model decisions. Previously, she was a postdoctoral investigator at the Allen Institute for AI, where she worked with Yejin Choi.
-
-**Yongchan Kwon** is an Assistant Professor in the Department of Statistics at Columbia University. His research focuses on developing more interpretable and rigorous machine learning methods, directly motivated by scientific questions. He received a Ph.D. at Seoul National University and did his postdoc at Stanford University.
--->
